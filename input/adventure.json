@@ -1,0 +1,19 @@
+{
+    "locations": [
+        {
+            "name": "Street",
+            "description": "You stand in front of an old house that looks just like you remembered it in the past. The entrance door is ajar.",
+            "next": "House Entrance"
+
+        },
+        {
+            "name": "House Entrance",
+            "description": "You enter the house. Everything here is covered with dust: the floor, the hanger, the shelves. Except for one dust-free door with a label on it that says \"Cellar\".",
+            "next": "Cellar"
+        },
+        {
+            "name": "Cellar",
+            "description": "The cellar is dark and you can't see anything. Your right hand rests on the wall and senses a light switch."
+        }
+    ]
+}
