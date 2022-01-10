@@ -3,6 +3,7 @@
   <component name="MPSProject">
     <projectModules>
       <modulePath path="$PROJECT_DIR$/languages/game.core/game.core.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/game.importer/game.importer.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/game.sandbox/game.sandbox.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/gson/gson.msd" folder="" />
     </projectModules>
