@@ -4,6 +4,7 @@ Sample importer implemented in MPS to read a JSON file and create corresponding 
 
 # Changes
 
+- 2022-01-11 (4-action-code): Action works (via Find Action popup) but is not added anywhere yet.
 - 2022-01-10 (3-actions): Added a plugin solution and an import action (unfinished).
 - 2022-01-07 (2-basics): Added basic importer logic.
 - 2022-01-06 (1-introduction): Created a simple language for describing locations of the game, a JSON file with the data
