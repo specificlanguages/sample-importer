@@ -13,6 +13,7 @@
   <sourcePath />
   <languageVersions>
     <language slang="l:c7d72b42-d552-46d1-85eb-47eba47bfe94:game.core" version="0" />
+    <language slang="l:0cc9a66b-5516-4940-9f61-89d1d9f56deb:game.importconfig" version="0" />
     <language slang="l:ceab5195-25ea-4f22-9b92-103b95ca8c0c:jetbrains.mps.lang.core" version="2" />
   </languageVersions>
   <dependencyVersions>
