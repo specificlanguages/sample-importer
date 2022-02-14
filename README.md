@@ -4,6 +4,7 @@ Sample importer implemented in MPS to read a JSON file and create corresponding 
 
 # Changes
 
+- 2022-02-14 (8-reimports): Handle reimports: update existing nodes on import rather than creating duplicates.
 - 2022-01-25 (7-temporary-model): Importing to a temporary model to avoid inconsistent state on failure.
 - 2022-01-18 (6-invoking-from-editor): A concept to store import configuration and invoke the importer directly from the
   editor.
